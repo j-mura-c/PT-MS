@@ -1,4 +1,4 @@
-# PT-MS
+# PT-MS (mejoras, etc mentoring)
 pendiente:
 * realizar unit testing
 * simplificar controllers (y cambiar los private)
