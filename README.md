@@ -9,3 +9,4 @@ puntos pendientes del desafío anterior, y otras mejoras:
 * generar features con distintos BD (al menos relacionales)
 * agregar lombok y limpiar pojos
 * agregar spring security (authentication con bearer token, websecurity config, ...)
+* definir/proponer una nomenclatura de package más ad-hoc que la actual (src/main/java/**reto_java**) 
